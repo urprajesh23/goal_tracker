@@ -46,18 +46,6 @@ A **professional and modern** goal tracking web application built with **Next.js
 - **Step Management:** Interactive checkboxes with completion states and visual feedback
 - **Bulk Operations:** Select and manage multiple goals efficiently
 
-### **User Experience**
-- **Responsive Design:** Perfect on desktop, tablet, and mobile devices
-- **Smooth Animations:** Professional transitions and micro-interactions
-- **Modern Navigation:** Sticky navbar with active states and mobile menu
-- **Error Handling:** Graceful error handling with user-friendly messages
-
-### **Technical Excellence**
-- **Performance Optimized:** Fast loading with efficient state management
-- **Accessibility:** WCAG compliant with proper ARIA labels and keyboard navigation
-- **Cross-browser Compatible:** Works seamlessly across all modern browsers
-- **SEO Optimized:** Proper meta tags and semantic HTML structure
-
 ---
 
 ## 🛠️ Tech Stack
@@ -127,28 +115,6 @@ npm run dev
 
 ---
 
-## 🎨 Design System
-
-### **Color Palette**
-- **Primary:** Professional blue gradient (#0ea5e9 to #0369a1)
-- **Success:** Green for completed goals (#22c55e)
-- **Warning:** Orange for active goals (#f59e0b)
-- **Error:** Red for destructive actions (#ef4444)
-- **Neutral:** Gray scale for text and backgrounds
-
-### **Typography**
-- **Font Family:** Inter (Google Fonts)
-- **Weights:** 300, 400, 500, 600, 700
-- **Responsive:** Scales beautifully across all devices
-
-### **Components**
-- **Cards:** Elevated with subtle shadows and hover effects
-- **Buttons:** Gradient backgrounds with smooth transitions
-- **Progress Bars:** Animated with shimmer effects
-- **Modals:** Backdrop blur with smooth animations
-
----
-
 ## 📱 Usage
 
 ### **Dashboard**
@@ -177,28 +143,6 @@ npm run dev
 
 ---
 
-## 🧑‍💻 Development
-
-### **Code Quality**
-- Clean, maintainable JavaScript code
-- Modular SCSS architecture
-- Consistent naming conventions
-- Comprehensive error handling
-
-### **Performance**
-- Optimized bundle size
-- Efficient re-renders
-- Lazy loading where appropriate
-- Minimal API calls
-
-### **Accessibility**
-- Semantic HTML structure
-- Proper ARIA labels
-- Keyboard navigation support
-- High contrast ratios
-
----
-
 ## 🚀 Deployment
 
 ### **Local Development**
@@ -220,11 +164,6 @@ npm start
 
 ---
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
 
 ## 🙋 FAQ
 
@@ -246,5 +185,3 @@ This project is open source and available under the MIT License.
 
 - **U.R PRAJESH** @ 2025
 - **Built with Next.js and MongoDB**
-- **Professional UI/UX Design**
-- **Enterprise-grade Architecture** 
